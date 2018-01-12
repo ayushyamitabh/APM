@@ -1,0 +1,259 @@
+{
+  "Admins" : {
+    "000pLbKIQ2WU1PvC91vfj3L7q7y1" : "app_h248uhb88",
+    "uid" : "uaid"
+  },
+  "Appraisers" : {
+    "app_h248uhb88" : {
+      "address" : "Test Address",
+      "approved" : "true",
+      "bc" : "",
+      "bcdate" : "",
+      "ca" : "CA",
+      "certificationType" : "trainee",
+      "city" : "NYC",
+      "cname" : "TEST APM",
+      "com" : false,
+      "company" : "4995056173",
+      "details" : "some details",
+      "email" : "test@apm.com",
+      "fha" : true,
+      "fname" : "NewName",
+      "ibn" : "IBC",
+      "ic" : "IC",
+      "ipn" : "IPN",
+      "lname" : "APM",
+      "loginemail" : "test@apm.com",
+      "loginemailcon" : "test@apm.com",
+      "loginpassword" : "apm123",
+      "loginpasswordcon" : "apm123",
+      "mailingaddress" : "Test APM Address",
+      "mailingcity" : "NYC",
+      "mailingstate" : "new york",
+      "mailingzip" : "11355",
+      "orders" : [ null, "SampleOrder" ],
+      "pca" : "PCA",
+      "phone" : "3474223883",
+      "phoneAlt" : "3474223883",
+      "ref" : "",
+      "resume" : "",
+      "sa" : "",
+      "sa2" : "",
+      "sameasabove" : true,
+      "softwareChoice" : "aci",
+      "ssn" : "1234",
+      "state" : "new york",
+      "uaid" : "app_h248uhb88",
+      "userFolder" : {
+        "Licenses" : {
+          "LiD1" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2FLicenses%2FLiD1?alt=media&token=c7c334d2-6c75-4da6-9c97-57a98a1b1dd5",
+          "LiED1" : "2017-06-13",
+          "LiLN1" : "879",
+          "licensestate1" : "federated states of micronesia"
+        },
+        "SupportingDocuments" : {
+          "placeholder" : false,
+          "w9" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2FSupporting%20Documents%2Fw9?alt=media&token=47fc4179-4d4a-468c-8010-0fb9b6f06b5d"
+        },
+        "eoi" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2Feoi?alt=media&token=5609404c-59cc-48df-b46d-86074f36c879",
+        "pricings" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2Fpricings.xls?alt=media&token=bb09649a-201a-4657-996e-eac1e2bdfed7"
+      },
+      "va" : false,
+      "w9" : "C:\\fakepath\\1.1 to 1.4.pdf",
+      "zip" : 100010
+    },
+    "app_n13ciyhmm" : {
+      "address" : "43-70 Kissena Blvd.",
+      "approved" : true,
+      "ca" : "CA",
+      "certificationType" : "trainee",
+      "city" : "FLUSHING",
+      "cname" : "Ayushya Amitabh",
+      "com" : false,
+      "company" : "4995056173",
+      "details" : "some details",
+      "email" : "ayushyamitabh@gmail.com",
+      "fha" : true,
+      "fname" : "Ayushya",
+      "ibn" : "IBC",
+      "ic" : "IC",
+      "ipn" : "IPN",
+      "lname" : "Amitabh",
+      "loginemail" : "ayushyamitabh@gmail.com",
+      "loginemailcon" : "ayushyamitabh@gmail.com",
+      "loginpassword" : "password",
+      "loginpasswordcon" : "password",
+      "mailingaddress" : "43-70 Kissena Blvd.",
+      "mailingcity" : "FLUSHING",
+      "mailingstate" : "new york",
+      "mailingzip" : "11355",
+      "orders" : [ null, "apm_h248uhb88" ],
+      "pca" : "PCA",
+      "phone" : "3474223883",
+      "phoneAlt" : "3474223883",
+      "sameasabove" : true,
+      "softwareChoice" : "aci",
+      "ssn" : "1234",
+      "state" : "new york",
+      "uaid" : "app_n13ciyhmm",
+      "userFolder" : {
+        "Licenses" : {
+          "LiD1" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2FLicenses%2FLiD1?alt=media&token=c7c334d2-6c75-4da6-9c97-57a98a1b1dd5",
+          "LiED1" : "2017-06-13",
+          "LiLN1" : "879",
+          "licensestate1" : "federated states of micronesia"
+        },
+        "SupportingDocuments" : {
+          "placeholder" : false,
+          "w9" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2FSupporting%20Documents%2Fw9?alt=media&token=47fc4179-4d4a-468c-8010-0fb9b6f06b5d"
+        },
+        "eoi" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2Feoi?alt=media&token=5609404c-59cc-48df-b46d-86074f36c879",
+        "pricings" : "https://firebasestorage.googleapis.com/v0/b/apm-main.appspot.com/o/app_n13ciyhmm%2Fpricings.xls?alt=media&token=bb09649a-201a-4657-996e-eac1e2bdfed7"
+      },
+      "va" : false,
+      "w9" : "C:\\fakepath\\1.1 to 1.4.pdf",
+      "zip" : "11355"
+    }
+  },
+  "Clients" : {
+    "SampleClient" : {
+      "Info" : {
+        "Address" : "Sample Bank Address",
+        "Contact" : "987 654 3210",
+        "Email" : "sample@bank.com"
+      },
+      "Orders" : [ null, "SampleOrder" ],
+      "UCID" : "z1y2x3w4v"
+    }
+  },
+  "Orders" : {
+    "SampleOrder" : {
+      "Appraiser" : "app_h248uhb88",
+      "Bank" : "SampleClient",
+      "Chat" : {
+        "1" : {
+          "Content" : "Hello World",
+          "From" : "Appraiser"
+        },
+        "2" : {
+          "Content" : "Client/Bank Reply",
+          "From" : "Client"
+        },
+        "3" : {
+          "Content" : "Homeowner joins the conv.",
+          "From" : "Homeowner"
+        },
+        "number" : 4
+      },
+      "Date" : "01/01/1111",
+      "DueDate" : "02/02/2222",
+      "Homeowner" : {
+        "Address" : "Sample Homeowner Address",
+        "Contact" : "123 456 7890",
+        "Name" : "Sample Homeowner"
+      },
+      "Products" : [ null, 1004, 1073 ],
+      "PropertyType" : "Sample Property",
+      "UOID" : "SampleOrder"
+    },
+    "apm_h248uhb88" : {
+      "Appraiser" : "app_n13ciyhmm",
+      "Bank" : "SampleClient",
+      "Chat" : {
+        "1" : {
+          "Content" : "Hello World",
+          "From" : "Appraiser"
+        },
+        "2" : {
+          "Content" : "Sample Chat Message",
+          "From" : "Client"
+        },
+        "3" : {
+          "Content" : "Message from Homeowner",
+          "From" : "Homeowner"
+        },
+        "4" : {
+          "Content" : "Admin says hello",
+          "From" : "Admin"
+        },
+        "5" : {
+          "Content" : "Hello",
+          "From" : "Admin"
+        },
+        "6" : {
+          "Content" : "alkkjdk",
+          "From" : "Admin"
+        },
+        "number" : 7
+      },
+      "Date" : "07/03/2017",
+      "DueDate" : "07/05/2017",
+      "Homeowner" : {
+        "Address" : "43-70 Kissena Blvd.,Flushing, NYC,NY-11355",
+        "Contact" : "3474223883",
+        "Name" : "Ayushya Amitabh"
+      },
+      "Products" : [ null, 1044 ],
+      "PropertyType" : "Appartment",
+      "UOID" : "apm_h248uhb88"
+    },
+    "apm_unassigned" : {
+      "Appraiser" : false,
+      "Bank" : "SampleClient",
+      "Chat" : {
+        "1" : {
+          "Content" : "Hello World",
+          "From" : "Appraiser"
+        },
+        "2" : {
+          "Content" : "Sample Chat Message",
+          "From" : "Client"
+        },
+        "3" : {
+          "Content" : "Message from Homeowner",
+          "From" : "Homeowner"
+        },
+        "4" : {
+          "Content" : "Admin says hello",
+          "From" : "Admin"
+        },
+        "5" : {
+          "Content" : "Hello",
+          "From" : "Admin"
+        },
+        "6" : {
+          "Content" : "alkkjdk",
+          "From" : "Admin"
+        },
+        "number" : 7
+      },
+      "Date" : "07/03/2017",
+      "DueDate" : "07/05/2017",
+      "Homeowner" : {
+        "Address" : "43-70 Kissena Blvd.,Flushing, NYC,NY-11355",
+        "Contact" : "3474223883",
+        "Name" : "Ayushya Amitabh"
+      },
+      "Products" : [ null, 1044 ],
+      "PropertyType" : "Appartment",
+      "UOID" : "apm_h248uhb88"
+    }
+  },
+  "States" : {
+    "NY" : {
+      "Appraisers" : [ null, "a1b2c3d4e" ],
+      "Clients" : [ null, "z1y2x3w4v" ],
+      "Orders" : [ null, "f1g2h3i4j" ]
+    },
+    "federated states of micronesia" : {
+      "Appraisers" : {
+        "dKoOaFfoPDNFwU6ihyc8iTOm9zF3" : "app_n13ciyhmm"
+      }
+    }
+  },
+  "Users" : {
+    "000pLbKIQ2WU1PvC91vfj3L7q7y1" : "app_h248uhb88",
+    "FirebaseUUID" : "app_ | cli_ | hom_ a1b2c3d4e",
+    "dKoOaFfoPDNFwU6ihyc8iTOm9zF3" : "app_n13ciyhmm"
+  }
+}

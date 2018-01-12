@@ -1,0 +1,6 @@
+For Client's Profile :-
+  Name
+  Address
+  Director
+  Case Lead
+  Standard Requirements (File)

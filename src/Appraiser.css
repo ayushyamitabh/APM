@@ -1,0 +1,79 @@
+.appraiser-signup-page {
+  width: 80%;
+  margin: 0 auto !important;
+  margin-top: 5% !important;
+  margin-bottom: 5% !important;
+}
+
+.appraiser-list{
+  width: 90% !important;
+  margin: 0 auto;
+}
+.divider {
+  height: 2px !important;
+  margin-bottom: 10px !important;
+}
+.step-content {
+  padding: 5px 50px !important;
+}
+.step-content p {
+  font-size: 18px !important;
+}
+.address-checkbox {
+  width: 50% !important;
+  padding-left: 5px;
+}
+.address-checkbox label{
+  text-align: left !important;
+}
+.step-content .next-step-button {
+  margin-bottom: 20px !important;
+}
+.other .details{
+  text-align: left !important;
+}
+.other .inline-checkbox {
+  width: 100% !important;
+}
+.other .inline-checkbox .checkbox {
+  text-align: left !important;
+  width: 20% !important;
+  display: inline-block !important;
+}
+.other .inline-checkbox .checkbox div div {
+  margin-right:  0 !important;
+}
+.other .inline-checkbox .checkbox div label {
+  padding-left: 4px !important;
+}
+.other .licenses {
+  width: 80% !important;
+  margin: 0 auto !important;
+  padding: 0 5% !important;
+  padding-bottom: 20px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+.other .divider {
+  margin-top: 10px !important;
+}
+.other .upload {
+  height: 35px !important;
+  margin-top: 4px !important;
+}
+.product-fees {
+  position: relative;
+  height: 350px !important;
+  padding: 0 50px;
+  overflow-y: auto;
+  background-color: rgba(200,200,200,0.2);
+  margin-bottom: 10px;
+}
+p.sub {
+  margin-top: 0 !important;
+  font-size: 14px !important;
+}
+.progress {
+  height: 8px !important;
+  margin-top: 2px !important;
+}

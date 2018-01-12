@@ -1,0 +1,25 @@
+.back-btn {
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+.toolbar-title {
+    color: rgba(100,100,100,1) !important;
+}
+.order-create h3 {
+    text-align:  center !important;
+    padding: 7px 0 !important;
+    background-color: rgba(200,200,200,0.4);
+}
+.order-create .product-display {
+    display: flex !important;
+    width: 100% !important;
+    overflow-x: scroll !important;
+}
+.order-create .product-chip {
+    /* display: inline-block !important; */
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+}
+.order-create {
+    padding-bottom: 20px !important;
+}

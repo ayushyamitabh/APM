@@ -1,0 +1,298 @@
+input, textarea {
+  user-select: text !important;
+}
+.admin-appbar {
+  width: 100% !important;
+  background-color: #0D3A42 !important;
+  position: fixed !important;
+  top: 0;
+}
+.admin-appbar h1{
+  margin-left: 2% !important;
+  text-align: left;
+}
+.admin-appbar h1:hover{
+  cursor: pointer;
+}
+.admin-appbar img{
+  top: 0;
+  position: absolute;
+  height: 100% !important;
+}
+.admin-appbar div:nth-child(3){
+  position: relative !important;
+  margin-top: 12px !important;
+}
+.admin-appbar .user-button{
+  color: white !important;
+  margin-top: 0 !important;
+}
+.admin-tabs{
+  margin-top: 64.2px !important;
+}
+.admin-tabs_new{
+  margin-top: 5.5vh !important;
+}
+.admin-tabs > div:first-child {
+  background-color: #1D5E7C !important;
+}
+.admin-appraiser-search {
+  width: 90vw;
+  margin: 0 auto;
+}
+.admin-appraiser-list{
+  width: 90% !important;
+  margin: 0 auto;
+}
+.admin-appraiser-table{
+  width: 100% !important;
+  margin: 0 auto;
+}
+.admin-appraiser-toolbar{
+  width: 90%;
+  margin: 0 auto;
+}
+.appraiser-profile-head {
+  margin: 0 auto !important;
+  margin-top: 1vh !important;
+  width: 90vw;
+}
+.appraiser-profile-head>div:first-child{
+  margin-left: -2vw !important;
+}
+.select-a-tab{
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 20vh;
+  text-transform: uppercase;
+}
+.appraiser-profile-personal .divider{
+  height: 3px !important;
+  margin-top: 2vh !important;
+  margin-bottom: 2vh !important;
+  background-color: #809BCE !important;
+}
+.appraiser-profile-personal{
+  margin: 0 auto;
+  width: 100%;
+  margin-bottom: 7vh;
+}
+.appraiser-profile-personal>div{
+  margin-left: 1vw;
+}
+.appraiser-profile-personal input#state{
+  text-transform: capitalize;
+}
+.appraiser-profile-personal input#mailingstate{
+  text-transform: capitalize;
+}
+.appraiser-profile-personal input#loginpassword{
+  text-transform: none;
+}
+.appraiser-profile-personal .approval{
+  position: relative !important;
+  margin: 0 auto !important;
+  width: 100%;
+}
+.appraiser-profile-orders{
+  margin: 0 auto;
+  width: 100% !important;
+  margin-bottom: 7vh;
+}
+.appraiser-profile-folder{
+  width: 100% !important;
+  margin: 0 auto;
+}
+.appraiser-profile-folder div.doc-btn{
+  margin-left: 1% !important;
+}
+.appraiser-profile-folder .divider{
+  margin-top: 1% !important;
+}
+.appraiser-profile-folder .license-head{
+  text-transform: capitalize;
+}
+.admin-login{
+  width: 50% !important;
+  margin: 0 auto !important;
+  margin-top: 15% !important;
+  padding: 2% 5% !important;
+  padding-bottom: 4% !important;
+  background-color: rgba(230,230,230,0.4);
+}
+.admin-login-panel {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 10%;
+  padding: 2%;
+  padding-bottom: 4%;
+  background: rgba(233,233,233,0.2);
+}
+.admin-login-panel h1{
+  font-size: 5rem;
+  margin: 0 auto;
+}
+.admin-login-panel h3 {
+  font-size: 2rem;
+  margin:  0 auto;
+  margin-bottom: 2%;
+  text-transform: uppercase;
+  font-weight: 400 !important;
+}
+.admin-orders{
+  width: 90%;
+  margin: 0 auto;
+  /*margin-top: 2%;*/
+}
+.admin-order-details{
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 5%;
+  padding-bottom: 5%;
+  margin-top: 0.75%;
+}
+.admin-order-toolbar div .title {
+  margin-left: 15px !important;
+}
+.admin-order-details h1{
+  text-align: center !important;
+  font-size: 20px;
+  text-transform: uppercase;
+  background-color: rgba(153,153,153,0.23);
+  margin: 0;
+  margin-top: 0.5%;
+  padding: 1% 0;
+}
+.appraiser-profile-tabs {
+  width: 90% !important;
+  margin:  0 auto !important;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+.admin-appraiser-order-details {
+  overflow-y: scroll !important;
+}
+.admin-appraiser-order-details .admin-order-details{
+  width: 100% !important;
+}
+.chip-right{
+  color: white !important;
+  margin-top: 0.5% !important;
+  display: block !important;
+  float: right;
+  clear: both;
+}
+.chip-right div div{
+  position: absolute;
+  right: 0;
+}
+.chip-right div span{
+  padding-right: 32px !important;
+  color: white !important;
+}
+.chip-left{
+  color: white !important;
+    margin-top: 0.5% !important;
+    display: block !important;
+    text-align: left;
+    float: left;
+    clear: both;
+}
+.chip-left div span {
+  color: white !important;
+}
+.chip-left span, .chip-right span{
+  max-width: 500px !important;
+  white-space: normal !important;
+}
+.buffer{
+  display: block;
+  clear: both;
+  height: 15%;
+}
+.chat-legend {
+  width: 100%;
+  align-content: center;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 1%;
+}
+.chat-legend .chip{
+  display: inline-flex !important;
+  margin-left: 1% !important;
+}
+.chip span{
+  color: white !important;
+}
+.chat-legend .divider{
+  margin: 0 !important;
+  margin-top: 10px !important;
+}
+.new-message {
+  width: 100%;
+}
+.chat-field {
+  background-color: rgba(0,0,0,1);
+  position: relative;
+  display: block;
+  width: 100%;
+  min-height: 60% !important;
+  height: 60% !important;
+  max-height: 60% !important;
+}
+.order-dialog .appraiser-profile-head {
+  width: 100% !important;
+}
+.order-dialog .appraiser-profile-tabs {
+  width: 100% !important;
+}
+.order-dialog .divider {
+  display: none;
+}
+.order-dialog{
+  overflow-y: scroll !important;
+}.
+.order-dialog .appraiser-profile-personal{
+  width: 100% !important;
+}
+.order-dialog .doc-btn{
+  margin-top: 2px !important;
+}
+.add-item {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+.admin-client {
+  width: 90% !important;
+  margin: 0 auto !important;
+}
+.admin-client-details {
+  width: 90% !important;
+  margin: 0 auto !important;
+  margin-top: 0.75% !important;
+}
+.admin-client-details h4 {
+  font-weight: 400 !important;
+  text-align: center !important;
+  padding-top: 6px !important;
+  padding-bottom: 6px !important;
+  margin-top: 6px !important;
+  background-color: rgba(200,200,200,0.4) !important;
+}
+.admin-client-details .order-btn {
+  display: inline-block !important;
+  width: fit-content !important;
+  margin-top: 4px !important;
+  margin-right: 4px !important;
+}
+.assign-due-date {
+  margin: auto 15px !important;
+}
+.no-appraiser-orders {
+  text-align: center !important;
+  background-color: rgba(200,200,200,0.4) !important;
+  padding: 7px 0 !important;
+  margin-top: 7px !important;
+}

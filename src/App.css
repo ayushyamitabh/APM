@@ -1,0 +1,293 @@
+*{
+  user-select: none;
+}
+.appraiser-tabs{
+  margin-top: 44.2px !important;
+}
+.appraiser-tabs > div:first-child {
+  background-color: #1D5E7C !important;
+}
+.calendar_space{
+    height: 50px;
+    width: 50%;
+}
+.overflow-hidden{
+  overflow-x: hidden;
+}
+.overflow-y{
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.App {
+  text-align: center;
+}
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+.flex-col .padding .footer {
+  margin-top: 0 !important;
+}
+nav.navbar{
+  width: 100vw;
+  background-color: rgba(34, 34, 34, 1);
+  border-color: rgba(34, 34, 34, 1);
+  transition: all linear 0.3s;
+  z-index: 1;
+}
+.navbar-brand>img {
+  width: 3vw;
+}
+.landing{
+  margin-top: -2vh;
+  width: 100vw;
+  height: 94.65vh;
+  overflow: hidden;
+}
+.landing video{
+}
+.landing-screen{
+  margin-top: -60vh;
+  color: white;
+}
+.landing-screen h1{
+  margin: 0 auto;
+  position: relative;
+  font-size: 170px;
+  text-align: center;
+}
+.landing-screen h2{
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  margin: 0 auto;
+  margin-top: -2vh;
+  padding-bottom: 21vh;
+}
+.col{
+  text-align: center;
+  transition: all linear 0.3s;
+  padding: 0 5vw;
+  display: inline-block;
+}
+.col:hover{
+  margin-top: -5vh;
+}
+.thumbnail img{
+  width: 5vw;
+  padding-top: 2vh;
+}
+
+.login-screen{
+  position: relative;
+  margin-top: -65vh;
+}
+.login-screen .col{
+  margin: 0 auto;
+  padding-bottom: 0;
+}
+.login-screen .col:hover{
+  margin-top: -1.5vh;
+}
+.login-screen h1{
+  filter: drop-shadow(0 2px 10px rgba(100,100,100,0.5));
+  z-index: 1;
+  padding-bottom: -5vh;
+  font-size: 72px;
+  color: white;
+  display: block;
+}
+.partner-screen{
+  margin-top: -75vh;
+}
+.form-item{
+  margin: 0 auto;
+  width: 30vw;
+}
+.input-item{
+  padding-bottom: 0.5vh;
+}
+.partner-screen textarea{
+  max-width: 30vw;
+  width: 30vw;
+  min-width: 30vw;
+  min-height: 10vh;
+  height: 10vh;
+  max-height: 30vh;
+}
+.partner-screen button{
+  position: relative;
+  width: 30vw;
+  outline: none;
+  border: none;
+}
+.panel{
+  width: 50vw;
+  margin: 0 auto;
+  margin-top: 5vh;
+}
+.appraiser-login .well{
+  cursor: pointer;
+  margin-top: 2vh;
+}
+.appraiser-login .well:hover{
+  background: rgba(40,80,150,0.7);
+  color: white;
+}
+.appraiser-login button{
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+.signup-screen{
+  width: 100vw;
+  overflow-y: scroll;
+}
+.signup-screen #signup-item input{
+  padding-bottom: 0.5vh;
+}
+.signup-item{
+  position: relative;
+  width: 100%;
+  padding-bottom: 0.5vh;
+}
+.signup-item input{
+  border-width: 1.5px;
+}
+.signup-button{
+  position: relative;
+  width: 90%;
+  display: block;
+  padding: 0.3vh 0;
+  margin-top: 0.5vh;
+}
+.agreement.panel {
+  width: 70vw;
+}
+.products-panel-form{
+  height: 70vh;
+  overflow-y: scroll;
+}
+.well-top{
+  width: 70vw;
+  margin: 0 auto;
+}
+.panel{
+  margin: 0 auto;
+  width:  40vw;
+}
+
+.panel_medium{
+  width : 30vw;
+}
+
+.panel_large{
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.panel_largest{
+  width: 80vw;
+}
+
+.format_width{
+    width: 1250px;
+    padding-left: 70px;
+    padding-right: 30px;
+}
+
+.div.panel_medium.panel-warning{
+  margin: 0;
+}
+
+.div.center_me.btn-toolbar{
+  width : 40vw;
+  margin: 0 auto;
+}
+.awaiting-approval{
+  margin: 0 auto;
+  width: 70vw;
+}
+.awaiting-approval img {
+  position: relative;
+  width: 40%;
+  margin: 0 auto;
+}
+.footer {
+  color: black;
+  z-index: 1;
+  margin-top: 100vh;
+}
+.homeFooter{
+  /*display: flex !important;*/
+  position: absolute !important;
+  /*width: 100% !important;*/
+}
+.homeFooter .well{
+  position: sticky;
+  width: 100% !important;
+}
+.userPanelLeft{
+  text-align: left;
+  font-weight: bold;
+}
+
+.userPanelLeftUrgent{
+  text-align: left;
+  color: red;
+}
+
+.userPanelLeftSuccess{
+  text-align: left;
+  color: green;
+}
+
+.userPanelRight{
+  text-align: right;
+}
+
+.userPanelRightUrgent{
+  text-align: right;
+  color: red;
+}
+
+.userPanelRightSuccess{
+  text-align: right;
+  color: green;
+}
+
+.centerize{
+  margin:auto;
+  text-align: center;
+}
+
+.lefterize{
+  margin:auto;
+  text-align: left;
+}
+.righterize{
+  margin:auto;
+  text-align: right;
+}
+
+
+nav.appraisernav {
+  width: 100vw;
+}
+.row.mainpanelnav {
+  margin: 0 auto;
+}
+.panelloading h4 {
+}
+.panelloading img {
+  width: 15vw;
+  margin: 0;
+  margin-top: 8vh;
+}
+.admin-head {
+  margin: 0 auto;
+  width: 60vw !important;
+}
+.admin-panel-left{
+  text-align: left !important;
+}

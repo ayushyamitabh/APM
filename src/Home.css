@@ -1,0 +1,150 @@
+.home-page{
+  background: url('./res/homebackground.jpg') ;
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat-y;
+}
+.home-appbar {
+  background-color: rgba(0,0,0,0) !important;
+  box-shadow: none !important;
+  cursor: pointer !important;
+  position: fixed !important;
+  top: 0;
+  text-align: left !important;
+}
+.home-appbar div {
+  display: flex !important;
+}
+.home-appbar img {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 55px !important;
+}
+.appbar-tag-line {
+  transition: all linear 0.3s;
+  opacity: 0;
+  margin-top: 60px !important;
+}
+.colored-appbar{
+  background-color: #0069c0 !important;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+}
+.home-appbar.colored-appbar div{
+  /*color: #1a237e !important;*/
+  display: flex !important;
+}
+.home-appbar.colored-appbar .appbar-tag-line{
+  margin-top: 4px !important;
+  opacity: 1;
+}
+.home-tile-first{
+  width: 100%;
+  position: relative;
+}
+.home-tile-first video{
+  width: 100vw;
+  /*height: 100vh;*/
+  position: relative;
+  vertical-align: middle;
+  opacity: 1;
+  transition: all linear 0.3s;
+}
+.home-tile-second{
+  position: relative;
+  margin-top: -40% !important;
+  margin-bottom: 20% !important;
+  width: 100%;
+  color: white !important;
+}
+.home-tile-second h1{
+  font-size: 200px;
+  margin: 0 auto !important;
+  padding: 0 !important;
+  font-weight: 500;
+}
+.home-tile-second h4{
+  margin: 0 auto !important;
+  padding: 0 !important;
+  font-size: 28px;
+  font-weight: 400 !important;
+}
+.home-tile-about-us {
+  position: relative;
+  width: 85% !important;
+  margin: 0 auto !important;
+  /*margin-top: -5% !important;*/
+  padding: 20px 40px 30px 40px;
+}
+.home-tile-about-us h2{
+  text-align: left;
+  border-bottom: 2px solid #039be5;
+  color: #039be5 !important;
+}
+.home-tile-about-us p{
+  padding: 0 !important;
+  text-align: left;
+  font-size: 18px;
+  margin-top: 8px;
+}
+.login-tile{
+  position: relative;
+  width: 27.66% !important;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 25px 25px !important;
+  display: inline-block;
+}
+.login-tile.client button {
+  background-color: #2196f3 !important;
+}
+.login-tile.homeowner button {
+  background-color: #ef5350 !important;
+}
+.login-tile.appraiser button {
+  background-color: #a4c639 !important;
+}
+.login-tile img {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+.login-tile h3{
+  font-size: 24px;
+  font-weight: 400 !important;
+  margin-bottom: 5px !important;
+}
+.home-footer {
+  width: 100% !important;
+  position: relative;
+  margin: 0 !important;
+  margin-top: 25px !important;
+  padding: 15px 7.5% !important;
+  padding-bottom: 80px !important;
+  text-align: left;
+}
+.home-footer h2{
+  text-align: left;
+  margin: 0 auto;
+  margin-top: 0.7%;
+  padding-bottom: 0.3%;
+  color: #0069c0;
+  text-transform: uppercase;
+  font-size: 20px;
+  border-bottom: 2px solid #67daff;
+}
+.home-footer p {
+  margin: 0 auto;
+  text-align: left;
+  padding: 0;
+  padding-top: 4px;
+}
+.home-footer .admin-btn{
+  cursor: pointer;
+}
+@media (max-width:1024px) {
+  .home-tile-second {
+    top: 15%;
+  }
+}
